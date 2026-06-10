@@ -31,7 +31,7 @@ Program zawiera cztery niezależne zadania:
 ### Uruchomienie
  
 ```bash
-g++ main.cpp source.cpp -o program
+g++ main_PO_08_emilia_lupa.cpp source_PO_08_emilia_lupa.cpp -o program
 ./program
 ```
  
@@ -64,7 +64,7 @@ The program covers four independent tasks:
 ### How to run
  
 ```bash
-g++ main.cpp source.cpp -o program
+g++ main_PO_08_emilia_lupa.cpp source_PO_08_emilia_lupa.cpp -o program
 ./program
 ```
  
